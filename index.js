@@ -5,5 +5,6 @@ let ukTime =new Date().getHours()+ 6
 }
 
 function discountTicket (originalPrice) {
-  let newPrice = originalPrice*0.8
+  let newPrice = originalPrice*0
+  return newPrice
 }
