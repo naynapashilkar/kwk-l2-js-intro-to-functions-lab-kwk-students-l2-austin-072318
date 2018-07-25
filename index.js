@@ -8,3 +8,4 @@ function discountTicket (originalPrice) {
   let newPrice = originalPrice*0.8
   return newPrice
 }
+
