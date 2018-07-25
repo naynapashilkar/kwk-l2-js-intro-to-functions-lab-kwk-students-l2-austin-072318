@@ -9,3 +9,6 @@ function discountTicket (originalPrice) {
   return newPrice
 }
 
+function tweetReply (fan) {
+  return "Hey "+ fan +", thanks so much for the support! I really appreciate it!"
+}
